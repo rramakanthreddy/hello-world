@@ -1,0 +1,3 @@
+Begin;
+print.out("I am a robot");
+End;
