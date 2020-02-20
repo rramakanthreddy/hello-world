@@ -1,2 +1,2 @@
 # hello-world
-1st project repository
+This is the 1st message in the child and like to test it when we merge the files.
